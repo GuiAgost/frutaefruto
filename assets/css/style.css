@@ -15,3 +15,11 @@
 @import url("receitas/receita-titulo.css");
 @import url("receitas/receita-descricao.css");
 @import url("receitas/receita-botao.css");
+@import url("quemSomos/quemSomos.css");
+@import url("quemSomos/quemSomos-titulo.css");
+@import url("quemSomos/quemSomos-descricao.css");
+@import url("pessoas/pessoas.css");
+@import url("pessoas/pessoa.css");
+@import url("pessoas/pessoa-nome.css");
+@import url("pessoas/pessoa-imagem.css");
+@import url("pessoas/pessoa-funcao.css");
